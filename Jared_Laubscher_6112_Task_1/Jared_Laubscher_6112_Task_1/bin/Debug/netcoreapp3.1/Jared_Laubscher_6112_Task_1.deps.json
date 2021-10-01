@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jared_Laubscher_6112_Task_1/1.0.0": {
+        "runtime": {
+          "Jared_Laubscher_6112_Task_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jared_Laubscher_6112_Task_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
